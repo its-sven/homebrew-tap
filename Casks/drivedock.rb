@@ -2,8 +2,8 @@
 # frozen_string_literal: true
 
 cask "drivedock" do
-  version "0.5.1"
-  sha256 "a3493661f6644995d6882448a40ffb5f97cb46af91af6e50ece9b8b0ecaa35f7"
+  version "0.5.2"
+  sha256 "cd71d3b2feaef00fe1d004dc5b59da8378cd4fa77f33fb2524f33f1fb8b6ed98"
 
   url "https://github.com/its-sven/DriveDock/releases/download/v#{version}/DriveDock-#{version}.zip"
   name "DriveDock"
